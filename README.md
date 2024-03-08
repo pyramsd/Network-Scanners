@@ -2,6 +2,7 @@
 Herrameintas de seguridad informática
 
 ## Network_scanner.sh
+Ejecución:
 ```bash
 sudo ./network_scanners.sh
 ```
