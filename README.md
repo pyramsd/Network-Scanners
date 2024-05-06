@@ -24,5 +24,7 @@ Ejecución:
 ```bash
 sudo python3 linux_networkScanner.py
 ```
-
-![alt text](output_networkScanners.py.png)
+<p align=center>
+    <span>Output de linux y wondows networkScanner</span>
+    <img src="./output_networkScanners.py.png">
+</p>
