@@ -11,6 +11,11 @@ En caso de que no tenga permisos de ejecución:
 chmod +x network_scanners.sh
 ```
 
+<p align=center>
+    <img src="./images/image_network_scanners.sh.png"/>
+</p>
+
+
 ## windows_networkScanner.py
 Ejecución:
 ```bash
@@ -27,5 +32,5 @@ sudo python3 linux_networkScanner.py
 
 <p align=center>Output de linux y windows networkScanner</p>
 <p align=center>
-    <img src="./output_networkScanners.py.png"/>
+    <img src="./images/output_networkScanners.py.png"/>
 </p>
