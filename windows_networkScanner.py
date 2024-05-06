@@ -1,24 +1,3 @@
-'''import socket
-import os
-import asyncio
-
-def search(ip_address):
-    commad = "ping -n 1 "+ip_address
-    response = os.popen(commad).read()
-    if "TTL=" in response:
-        return ip_address
-
-
-for i in range(1, 255):
-    current_ip = "192.168.1."+str(i)
-    ip = search(current_ip)
-    try:
-        nombre = socket.gethostbyaddr(ip)
-    except:
-        continue
-    print(nombre)
-'''
-
 import socket
 import os
 import threading
