@@ -27,5 +27,5 @@ sudo python3 linux_networkScanner.py
 
 <p align=center>Output de linux y wondows networkScanner</p>
 <p align=center>
-    <img src="./output_networkScanners.py.png">
+    <img src="./output_networkScanners.py.png"/>
 </p>
