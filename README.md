@@ -25,6 +25,6 @@ Ejecución:
 sudo python3 linux_networkScanner.py
 ```
 <p align=center>
-    <span>Output de linux y wondows networkScanner</span>
+    <p>Output de linux y wondows networkScanner</p>
     <img src="./output_networkScanners.py.png">
 </p>
