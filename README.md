@@ -24,7 +24,8 @@ Ejecución:
 ```bash
 sudo python3 linux_networkScanner.py
 ```
+
+<p align=center>Output de linux y wondows networkScanner</p>
 <p align=center>
-    <p align=center>Output de linux y wondows networkScanner</p>
     <img src="./output_networkScanners.py.png">
 </p>
