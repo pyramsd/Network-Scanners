@@ -10,3 +10,10 @@ En caso de que no tenga permisos de ejecución:
 ```bash
 chmod +x network_scanners.sh
 ```
+
+## windows_networkScanner.py
+Ejecución:
+```bash
+python windows_networkScanner.py
+```
+> Te perdirá permisos de administrador
