@@ -16,6 +16,7 @@ Ejecución:
 ```bash
 python windows_networkScanner.py
 ```
+![alt text](output_windows_networkScanner.png)
 > Te perdirá permisos de administrador
 
 
