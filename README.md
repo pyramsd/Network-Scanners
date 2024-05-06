@@ -19,7 +19,7 @@ python windows_networkScanner.py
 > Te perdirá permisos de administrador
 
 
-## linux_network_Scanner.py
+## linux_networkScanner.py
 Ejecución:
 ```bash
 sudo python3 linux_networkScanner.py
