@@ -16,7 +16,6 @@ Ejecución:
 ```bash
 python windows_networkScanner.py
 ```
-![alt text](output_networkScanners.py.png)
 > Te perdirá permisos de administrador
 
 
@@ -25,3 +24,5 @@ Ejecución:
 ```bash
 sudo python3 linux_networkScanner.py
 ```
+
+![alt text](output_networkScanners.py.png)
