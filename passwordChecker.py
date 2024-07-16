@@ -18,13 +18,15 @@ def main():
         result = subprocess.run(comando_zip, shell=True, capture_output=True, text=True)
         unic_words = set(result.stdout.strip().splitlines())
         if unic_words:
-            print(unic_words)
+            print(f"La contraseña {unic_words} ha sido filtrada")
+        else: print("Contraseña no ha sido encontrada")
             
     elif extension == '.gz':
         result = subprocess.run(comando_gzip, shell=True, capture_output=True, text=True)
         unic_words = set(result.stdout.strip().splitlines())
         if unic_words:
-            print(unic_words)
+            print(f"La contraseña {unic_words} ha sido filtrada")
+        else: print("Contraseña no ha sido encontrada")
 
 
 main()
