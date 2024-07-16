@@ -34,3 +34,9 @@ sudo python3 linux_networkScanner.py
 <p align=center>
     <img src="./images/output_networkScanners.py.png"/>
 </p>
+
+## passwordChecker.py
+Ejecución:
+```bash
+python3 passwordChecker.py --passwd [contraseña] --file [lista de contraseña]
+```
