@@ -1,6 +1,12 @@
 # Cibersecurity-Tools
 Herrameintas de seguridad informática
 
+## getLocalNetPasswords.sh
+Ejecución
+```bash
+sudo ./getLocalNetPasswords.sh
+```
+
 ## Network_scanner.sh
 Ejecución:
 ```bash
