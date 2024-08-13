@@ -4,6 +4,18 @@ Herrameintas de seguridad informática
 ## getIPInfo.py
 Ejecución
 ```bash
+python3 getIpInfo.py -i 192.168.25.1
+```
+
+```bash
+python3 getIpInfo.py -i 192.168.25.1/24
+```
+
+```bash
+python3 getIpInfo.py -i 192.168.25.1/24 10.10.10.0
+```
+
+```
 usage: getIpInfo.py [-h] --ips IPS [IPS ...]
 
 IPv4 information
