@@ -14,7 +14,7 @@ def header(ip: str) -> list[str]:
 def obteinIpClass(ip: str) -> str:
     first_octet = int(ip.split(".")[0])
 
-    if 1 <= first_octet <= 126: return "A"
+    if 1 <= first_octet <= 127: return "A"
     elif 128 <= first_octet <= 191: return "B"
     elif 192 <= first_octet <= 223: return "C"
     else: return "Unknown"
