@@ -1,6 +1,20 @@
 # Cibersecurity-Tools
 Herrameintas de seguridad informática
 
+## getIPInfo.py
+Ejecución
+```bash
+usage: getIpInfo.py [-h] --ips IPS [IPS ...]
+
+IPv4 information
+
+options:
+  -h, --help            show this help message and exit
+  --ips IPS [IPS ...], -i IPS [IPS ...]
+                        IP addresses
+
+```
+
 ## getLocalNetPasswords.sh
 Ejecución
 ```bash
