@@ -88,7 +88,7 @@ def process_ip(ip: str) -> list:
     ]
 
 def main():
-    parser = argparse.ArgumentParser(description="IPv4 information")
+    parser = argparse.ArgumentParser(description="IPv4 information, just A, B and C")
     parser.add_argument("--ips", "-i", dest="ips", required=True, nargs='+', help="IP addresses")
 
     if len(sys.argv) <= 1:
