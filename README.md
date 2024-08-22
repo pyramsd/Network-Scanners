@@ -34,16 +34,3 @@ sudo python3 linux_networkScanner.py
 <p align=center>
     <img src="./images/output_networkScanners.py.png"/>
 </p>
-
-## passwordChecker.py
-Ejecución:
-```bash
-usage: passwordChecker.py [-h] --passwd PASSWD --file FILE
-
-Verifica si la contraseña se encuentra en una lista.
-
-options:
-  -h, --help       show this help message and exit
-  --passwd PASSWD  Contraseña a verificar
-  --file FILE      Lista de contraseñas
-```
