@@ -1,4 +1,4 @@
-# Networ Scanners
+# Network Scanners
 Escaneres de red
 
 ## Network_scanner.sh
