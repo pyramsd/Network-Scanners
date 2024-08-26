@@ -1,5 +1,5 @@
-# Cibersecurity-Tools
-Herrameintas de seguridad informática
+# Networ Scanners
+Escaneres de red
 
 ## Network_scanner.sh
 Ejecución:
